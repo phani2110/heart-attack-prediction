@@ -1,0 +1,6 @@
+Use Python 3.8.0
+
+
+Error: 'SVC' object has no attribute '_probA'?
+
+Solu:     pip install scikit-learn==0.22
